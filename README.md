@@ -1,13 +1,14 @@
 # Milkstrap
 
 <p align="left">
-  <img src="https://img.shields.io/github/v/release/marXBT/Milkstrap?style=flat-square&color=white&labelColor=black" alt="Release">
-  <img src="https://img.shields.io/github/repo-size/marXBT/Milkstrap?style=flat-square&color=white&labelColor=black" alt="Size">
+  <a href="https://github.com/marXBT/Milkstrap/releases">
+    <img src="https://img.shields.io/github/v/release/marXBT/Milkstrap?style=flat-square&color=white&labelColor=black" alt="Release Status">
+  </a>
+  <a href="https://github.com/marXBT/Milkstrap/stargazers">
+    <img src="https://img.shields.io/github/stars/marXBT/Milkstrap?style=flat-square&color=white&labelColor=black" alt="Stars">
+  </a>
+  <img src="https://img.shields.io/github/repo-size/marXBT/Milkstrap?style=flat-square&color=white&labelColor=black" alt="Repo Size">
 </p>
-
-`milkstrap` is the premiere Roblox launcher for Windows. for performance, UX, and customization
-
-
 
 ---
 

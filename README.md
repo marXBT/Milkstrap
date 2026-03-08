@@ -1,9 +1,6 @@
 # Milkstrap
 
 <p align="left">
-  <a href="https://github.com/marXBT/Milkstrap/releases">
-    <img src="https://img.shields.io/github/v/release/marXBT/Milkstrap?style=flat-square&color=white&labelColor=black" alt="Release Status">
-  </a>
   <a href="https://github.com/marXBT/Milkstrap/stargazers">
     <img src="https://img.shields.io/github/stars/marXBT/Milkstrap?style=flat-square&color=white&labelColor=black" alt="Stars">
   </a>

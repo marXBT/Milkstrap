@@ -1,20 +1,26 @@
 # Milkstrap
 
+<p align="left">
+  <img src="https://img.shields.io/github/v/release/marXBT/Milkstrap?style=flat-square&color=white&labelColor=black" alt="Release">
+  <img src="https://img.shields.io/github/repo-size/marXBT/Milkstrap?style=flat-square&color=white&labelColor=black" alt="Size">
+</p>
 
- 
--`milkstrap` is a modern Roblox launcher for Windows, inspired by projects like Bloxstrap and Fishstrap.
-+`milkstrap` is a Roblox launcher for Windows focused on speed, control, and clean UX.
-
--`milkstrap` is intended to be a configurable launcher layer for Roblox that gives you more control over launch UX & Performance
- 
- ## Contributing
- 
-Feedback issues PRs are welcome 
+`milkstrap` is the premiere Roblox launcher for Windows. for performance, UX, and customization
 
 
+
+---
+
+## Contributing
+Feedback, issues, and PRs are always welcome.
+
+---
 
 ## Donations
-If you like the project and want to donate feel free 
- - ETH`0x506E6261e4e4d895A41cb09926AfB7a2E8F98C21`
- - BTC`bc1q5hywpa9ywwj9ph2ppvc7mvvwcafgtf6segz6hy`
- - LTC`LRnedG83Es7yXwp7NGv6xjrSbbjdRB7ZD4`
+If you like `milkstrap` donations are welcome 
+
+
+
+| **ETH** | `0x506E6261e4e4d895A41cb09926AfB7a2E8F98C21` |
+| **BTC** | `bc1q5hywpa9ywwj9ph2ppvc7mvvwcafgtf6segz6hy` |
+| **LTC** | `LRnedG83Es7yXwp7NGv6xjrSbbjdRB7ZD4` |
